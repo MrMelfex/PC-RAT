@@ -41,19 +41,19 @@ With full implementation and setup, you can see all the commands and capabilitie
 
 **Some ّeatures:**
 
->> Taking a Screenshot
->> Recoard Voice
->> Message Box Virus
->> Send Message Box & Message Voice
->> Use Proxy in Script
->> Auto Update RAT
->> Theft Chrome Info Saved
->> Theft Wifi Info Saved
->> SutDown Restart and logOff
->> Disabel AntiVirus
->> Get all hardware and Windows information
->> Ability File Attack, EXE Attack, Swap Mouse Virus
->> Talking With Target
+* Taking a Screenshot
+* Recoard Voice
+* Message Box Virus
+* Send Message Box & Message Voice
+* Use Proxy in Script
+* Auto Update RAT
+* Theft Chrome Info Saved
+* Theft Wifi Info Saved
+* SutDown Restart and logOff
+* Disabel AntiVirus
+* Get all hardware and Windows information
+* Ability File Attack, EXE Attack, Swap Mouse Virus
+* Talking With Target
 
 & . . .
 
@@ -63,5 +63,5 @@ CopyRight From **MrMrlfex** | For See License Click [Here](https://www.oregon.go
 
 ## Developer
 
-**[MrMelfex[(https://github.com/MrMelfex)**
+**[MrMelfex](https://github.com/MrMelfex)**
 
